@@ -6,4 +6,4 @@ bye
 hi
 bye
 sai
-teja
+tejaq
